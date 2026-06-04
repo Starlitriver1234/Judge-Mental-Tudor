@@ -1,0 +1,399 @@
+:: StoryTitle
+Flow chart
+
+
+:: StoryData
+{
+  "ifid": "64C139CD-404C-414C-821C-6E050649B6FF",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Case 1 Introduction",
+  "zoom": 0.6
+}
+
+
+:: Analyse {"position":"775,125","size":"100,100"}
+(You look at the weird way the man dressed. He has a cowboy outfit. But for some reason, he added cutlery elements to it. Is he even a cowboy or just a guy pretending to be one? Is he free tonight for a night of fun? Is he a murderer or misunderstood? Can I fix him? So many questions.)
+
+[[Review footage]]
+[[Listen]]
+[[Romance]]
+
+
+
+:: Ask questions {"position":"425,1125","size":"100,100"}
+[[What is your favourite colour?]]
+[[Those people had families! Why did you do it?]]
+[[Wait! You used a fork, not a spoon. Why?]]
+[[Since when do dogs like ice cream?]]
+[[Judge]]
+
+
+:: Begin Case {"position":"425,25","size":"100,100"}
+All rise for the judge!
+Court is now in session! Andrew Colmanero, you are charged with murder and assault of multiple people using an ice cream spoon. How do you plead?
+
+Not guilty!
+
+The evidence is quite strong.
+
+I am not guilty, your honour! I promise! It's all a misunderstanding! I would never attack using a spoon! It's beneath me! Let me tell you what actually happened.
+
+[[Review footage]]
+[[Listen]]
+[[Romance]]
+[[Analyse]]
+
+
+
+:: By the way, did you do it? I like the bad boys. {"position":"1300,975","size":"100,100"}
+Andrew: Hell yeah, I did!
+
+[[Has anyone ever told you your eyes look like moss?]]
+[[Surprise! I tricked you!]]
+
+
+
+:: Case 1 Introduction {"position":"125,0","size":"100,100"}
+Case 1:
+
+Name: Andrew Juan Colmanero
+Gender: Male
+Age: 25
+Citizenship: Spanish
+Birth: 10 / 05 / 2000
+Charge: Murder charge with a spoon at a fast food restaurant over the ice cream machine not working.
+
+Mr. Colmanero entered a fast food restaurant yesterday in the hopes of getting an ice cream, but to his dismay, it was broken. Enraged by this, he picked one of the free plastic spoons and violently killed the staff. Before his sentence, he was interviewed by a local journalist. This is what he had to say: "I will never trust ever again! Give me that ice cream!" After this, he attacked the poor man and stole his hard-earned ice cream. The worst tragedy in the past month.
+
+[[Begin Case]]
+
+
+
+:: Come to your senses {"position":"1725,725","size":"100,100"}
+(You relaise how corupt you've become. Andrew observes the change happening on your face and gets worried. You look at him, stone cold.)
+
+Judge: Now that I know more about you, Colmanero, it's time for the real trial to begin.
+
+[[Review footage]]
+
+
+:: Community service {"position":"275,900","size":"100,100"}
+Community service! You are to work as a cleaner for the rest of your life without any payment in a Mexican restaurant! So basically the usual salary! Byeeeeee!
+
+[[End case]]
+
+
+:: Death {"position":"75,1175","size":"100,100"}
+Death by iron maiden! The most ethical choice, obviously.
+
+WHAT?!
+
+You heard me! Have fun! And please leave the court a review online! Have a good last day!
+
+[[End case]]
+
+
+:: Do you have enemies {"position":"775,450","size":"100,100"}
+Andrew: Of course not! Everyone loves me!
+
+Judge: Interesting.
+
+[[Ask questions]]
+
+
+
+:: End case {"position":"300,1450","size":"100,100"}
+The end of this case
+
+
+:: Flirt more {"position":"1725,1200","size":"100,100"}
+Judge: I mean, look at those eyes.
+
+(Andrew blushes before smugly moving his hand through his hair.)
+
+Judge: And that moustache! It's just something else!
+
+Andrew: Oh, stop it! Ha ha ha! But please, continue. I'm awesome, aren't I?
+
+Judge: The best!
+
+[[By the way, did you do it? I like the bad boys.]]
+
+
+
+:: Has anyone ever told you your eyes look like moss? {"position":"1525,475","size":"100,100"}
+Andrew: That's strange, man! You are a weirdo! But I like me a freak!
+
+[[Talk dirty]]
+
+
+
+:: Innocent {"position":"25,900","size":"100,100"}
+Sorry, I mean you are innocent! You can leave! The case is finished! Lunch time!
+
+[[End case]]
+
+
+:: It's crucial.... In determining your goodness level. {"position":"1200,525","size":"100,100"}
+Andrew: No problemo! I love feeding animals, playing guitar and raising money for charity.
+
+Judge: You do charity?
+
+Andrew! Of course! I'm funding an organisation that will end all spoon factories and turn them into fork factories!
+
+Judge: Amazing! But why?
+
+Andrew: Because forks are just a better race of cutlery!
+
+Judge: It's so poetic!
+
+Andrew: Hell yeah, man! I like your vibe.
+
+[[You are not bad yourself!]]
+[[Smirk and wink]]
+
+
+
+:: Judge {"position":"75,500","size":"100,100"}
+Andrew Colmanero, I sentence you to...
+
+[[Death]]
+[[Community service]]
+[[Innocent]]
+
+
+:: Listen {"position":"300,300","size":"100,100"}
+Andrew: It was terrible, your honour! Absolutely terrible!
+
+Judge: Yeah, yeah, I'm sure it was, now get on with it!
+
+Andrew: The day started normally! I woke up as the beautiful sunshine entered my room, watered my plants and petted my dog. After this, I realised that we were out of food! So of course, since I am such a caring and good person, I grabbed my last few funds and went to the restaurant to buy an ice cream for my dog!
+
+Judge: For... Your dog?
+
+Andrew: Yes, your honour! You see, my dog loves ice cream! And he was starving!
+
+Judge: What about you?
+
+Andrew: I was starving as well, but my dog was more important. Because love and friendship are what truly matter! So I went to the restaurant. Everything seemed normal at first, but then, when I ordered, I saw the employees' eyes lit up with a wicked sparkle! And then they attacked me! The ice cream machine was broken for months, and it requires a human sacrifice to work! And all the workers were like savage animals left to starve! They picked me up after and were about to put me on the grill when I grabbed a fork and was able to fight back! I managed to escape, but they framed me for murder. It was self-defence, your honour!
+
+[[Review footage 1]]
+[[Ask questions]]
+[[Judge]]
+
+
+
+:: Look suggestively {"position":"1775,550","size":"100,100"}
+(Andrew is a little shocked, but then moves his eyebrows up and down.)
+
+Andrew: Interesting
+
+(Andrew is happy and blows you a kiss.)
+
+[[Has anyone ever told you your eyes look like moss?]]
+
+
+
+:: Maybe not to jail... But what about my home? {"position":"1525,875","size":"100,100"}
+(Andrew is taken aback for a bit, but quickly smirks sugestively.)
+
+Andrew: I mean. If that's my sentence, judgy, who am I to say no?
+
+Andrew bites his lips and moves his eybrows up and down.
+
+Andrew: We can also stop by a cafe or an arms shop! I can show you my favourite guns. They almost do the job as good as a fork.
+
+(You sweat a bit and blush.)
+
+Judge: Isn't that an interesting offer!
+
+Andrew: Only for my favourite judge!
+
+(Andrew winks.)
+
+[[Take offer]]
+[[Come to your senses]]
+
+
+:: Review footage {"position":"75,200","size":"100,100"}
+(You take a small DVD and put it into a player. A TV glitches to life, and security footage from the restaurant plays. You watch as you see the friendly staff welcoming Andrew. Suddenly, he gets enraged, grabs a fork and stabs everyone in the eye.)
+
+Judge: You were saying, Colmanero?
+
+Andrew: I can explain!
+
+Judge: Really? Then explain to me how that was different from what we were told!
+
+Andrew: I used a fork, not a spoon! Spoons are just inferior! Yuck! Have you ever tried killing someone with a spoon? Very hard! Now a fork? That's where it's at!
+
+[[Judge]]
+[[Ask questions]]
+
+
+
+:: Review footage 1 {"position":"800,300","size":"100,100"}
+(You nod, taking into consideration what Andrew told you. You wonder if what he told you is true. But then you remember! You have footage! You take a DVD and then put it into a player. A small TV glitches to life and shows the security footage from the restaurant. Panicked, Andrew throws a fork at the TV, making it explode.)
+
+Watch out! The footage is cursed by the satanic ice cream machine cult! I'm sorry, your honour, but you can't watch it!
+
+[[Judge]]
+
+
+
+:: Romance {"position":"1475,0","size":"100,100"}
+(He is kind of cute... That beard. And that cowboy hat! Damn bro! That's what I'm talking about! Maybe I can ask him out. But how?)
+
+[[You free after this?]]
+[[What are your hobbies? It's important for the case]]
+
+
+
+:: Since when do dogs like ice cream? {"position":"950,675","size":"100,100"}
+Andrew: Since like the dawn of time! Ask a vet, they'd agree!
+
+[[Ask questions]]
+[[Judge]]
+
+
+
+:: Smirk and wink {"position":"1225,750","size":"100,100"}
+(Andrew is happy and blows you a kiss.)
+
+[[Has anyone ever told you your eyes look like moss?]]
+
+
+
+:: Stilll. Wanna hang out? {"position":"1875,425","size":"100,100"}
+Andrew: Hmm... Sure! What is in it for me?
+
+[[Whatever you want!]]
+[[Look suggestively]]
+
+
+
+:: Surprise! I tricked you! {"position":"1075,1225","size":"100,100"}
+The judge chuckles softly before laughing evilly.
+
+Judge: You fool! You fell for my trap!
+
+Andrew: W-WHAT?!
+
+Judge: Ah! Emotional manipulation works every time! Oh yeah! The sentence!
+
+[[End case]]
+
+
+
+:: Take offer {"position":"1200,1600","size":"100,100"}
+(You smirk as you look at Andrew suggestively.)
+
+Judge: I'll take you on that offer, cowboy! Maybe you can teach me how to ride a horse.
+
+Andrew: I think I'll be teaching you how to ride many things, judgy.
+
+[[End case]]
+
+
+
+:: Talk dirty {"position":"1525,675","size":"100,100"}
+Andrew: Don't you dare threaten me with a good time!
+
+Judge: I threatened you with jail.
+
+Andrew: Have you seen those places? The policeman and guards? Just perfect. Oh yes! I'd be CENSORED! And then I'd CENSORED! With a CENSORED! Oh yes! I can't wait! Are we going there soon, judgy?
+
+(Noted. No jail for him.)
+
+[[Maybe not to jail... But what about my home?]]
+[[]]
+
+
+
+
+:: Those people had families! Why did you do it? {"position":"1000,825","size":"100,100"}
+Andrew: I mean... Are you sure I did it? Besides, the world is better without them! No more ice cream machine gatekeeping!
+
+Judge: Aha...
+
+[[Ask questions]]
+[[Judge]]
+
+
+
+:: Wait! You used a fork, not a spoon. Why? {"position":"950,1025","size":"100,100"}
+Forks are just better!
+
+Makes sense.
+
+[[Ask questions]]
+[[Judge]]
+
+
+:: What are your hobbies? It's important for the case {"position":"1350,250","size":"100,100"}
+Andrew: Hmmm... I like riding horses.
+
+Judge: Really? Tell me more!
+
+Andrew: How is this related to the case?
+
+[[It's crucial.... In determining your goodness level.]]
+[[Has anyone ever told you your eyes look like moss?]]
+
+
+
+
+:: What is your favourite colour? {"position":"1025,550","size":"100,100"}
+Andrew: Red.
+
+Judge: Why?
+
+Andrew: Looks like blood.
+
+Judge: Whose?
+
+Andrew: The blood of my enemies.
+
+Judge: Cool...
+
+[[Ask questions]]
+[[Do you have enemies]]
+[[Judge]]
+
+
+
+:: Whatever you want! {"position":"1900,1050","size":"100,100"}
+(Andrew smirks)
+
+Andrew: Oh, I think we'll get along perfectly!
+
+Judge: That's what I'm hoping for, darling!
+
+[[Flirt more]]
+
+
+
+:: You are not bad yourself! {"position":"1025,250","size":"100,100"}
+Andrew: What do you mean? You mean I'm just ok? Not cool, man! I'm more than ok! I'm a god of hotness!
+
+Judge: That's not...
+
+Andrew: Shut it! Let's get on with this case already!
+
+(Andrew stares at you, upset. This romance isn't going any further. Best to at least review the footage.)
+
+[[Review footage]]
+
+
+
+:: You free after this? {"position":"1875,175","size":"100,100"}
+Andrew: No! Sorry, I have a dentist appointment.
+
+Judge: Wh... What? You realise you might go to prison, right?
+
+Andrew: Yeah! But I still have to care about my teeth! That's what good, kind people do.
+
+Judge: Of course.
+
+[[Stilll. Wanna hang out?]]
+
