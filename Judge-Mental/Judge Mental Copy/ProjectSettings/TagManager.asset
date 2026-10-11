@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -14,7 +14,7 @@ TagManager:
   - 
   - text
   - 
-  - 
+  - menu
   - 
   - 
   - 
@@ -44,3 +44,9 @@ TagManager:
   - name: Text UI
     uniqueID: 3446487209
     locked: 0
+  - name: Menu
+    uniqueID: 2165978175
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
